@@ -1,0 +1,15 @@
+{
+  "name": "javascript-tiny-compiler",
+  "version": "1.0.0",
+  "description": "Welcome to the JavaScript Tiny Compiler project! This repository hosts a compact yet powerful compiler for JavaScript, following the instructions provided by Jamie Kyle. The compiler is designed to walk you through the essential stages of the compilation process: Lexical Analysis, Syntactic Analysis, Transformation, and Code Generation. By understanding these stages, you will gain insights into how compilers work and how they can efficiently process code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
